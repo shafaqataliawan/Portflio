@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 import { CiLinkedin } from 'react-icons/ci'
 import { FaGithub } from 'react-icons/fa'
 import { MdOutlineEmail } from 'react-icons/md'

@@ -1,3 +1,5 @@
+import React from 'react';
+
 import About from "./components/about/About"
 import Footer from "./components/footer/Footer"
 import Home from "./components/home/Home"

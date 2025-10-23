@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react';
 import AboutImg from "../../assets/2.png";
 import { IoArrowForward } from "react-icons/io5";
 

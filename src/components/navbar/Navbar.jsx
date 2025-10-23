@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 
+
 export default function Navbar() {
   const [showMenu, setShowMenu] = useState(false); // ✅ single toggle state
 
