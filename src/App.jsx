@@ -1,7 +1,7 @@
 import About from "./components/about/About"
 import Footer from "./components/footer/Footer"
 import Home from "./components/home/Home"
-import Navbar from "./components/navbar/navbar"
+import Navbar from "./components/navbar/Navbar"
 import Project from "./components/project/Project"
 import Skill from "./components/skill/Skill"
 function App() {
